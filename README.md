@@ -14,6 +14,6 @@ Currently been reading papers on the same.
 - 😄 Pronouns: She/Her 
 
 ### CONTACT
-[Email](aasthasinha2010@gmail.com)
+<!-- [Email](aasthasinha2010@gmail.com) -->
 [Linkedln](https://www.linkedin.com/in/aastha-sinha-763840208/)
 

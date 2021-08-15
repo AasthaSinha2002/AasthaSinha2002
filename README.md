@@ -11,6 +11,9 @@ Currently been reading papers on the same.
 - 🔭 I’m currently researching about - SIRENS and controllable image generation.
 - 🌱 I’m currently learning - ML and python 
 - 😅 Planning on messing with - Front end development.
+- 👀 Have previously worked on - 
+    1. Java 
+    2. Python 
 - 😄 Pronouns: She/Her 
 
 ### CONTACT

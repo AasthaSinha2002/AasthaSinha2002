@@ -14,6 +14,7 @@ Currently been reading papers on the same.
 - 👀 Have previously worked on - 
     1. Java 
     2. Python 
+- 📝 Ongoing projects - Skiro 
 - 😄 Pronouns: She/Her 
 
 ### CONTACT

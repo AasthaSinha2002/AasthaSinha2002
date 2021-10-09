@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Aastha Sinha, I'm 19 year old freshmen pursuing a batchelor's in B.Tech Computer Science, With Specialization in AI.
+I am Aastha Sinha, I'm 19 year old sophomore pursuing a batchelor's in B.Tech Computer Science, With Specialization in AI.
 
 ### ABOUT ME !
 

@@ -14,8 +14,14 @@ Currently been reading papers on the same.
 - 👀 Have previously worked on - 
     1. Java 
     2. Python 
+    3. Dart
+    4. Flutter
 - 📝 Ongoing projects - Optical Braille Reader 
 - 😄 Pronouns: She/Her 
+
+### Find my Website at:
+[Akira](https://aasthasinha.in/)
+
 
 ### CONTACT
 <!-- [Email](aasthasinha2010@gmail.com) -->

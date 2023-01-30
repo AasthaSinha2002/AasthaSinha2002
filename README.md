@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Aastha Sinha, I'm 19 year old sophomore pursuing a batchelor's in B.Tech Computer Science, With Specialization in AI.
+I am Aastha Sinha, I'm 20 year old pre-final year student pursuing a batchelor's in B.Tech Computer Science, With Specialization in AI.
 
 ### ABOUT ME !
 
@@ -9,8 +9,8 @@ Currently been reading papers on the same.
 
 
 - 🔭 I’m currently researching about - SIRENS and controllable image generation.
-- 🌱 I’m currently learning - ML and python 
-- 😅 Planning on messing with - Front end development.
+- 🌱 I’m currently learning - React and Node
+- 😅 Planning on messing with - FullStack.
 - 👀 Have previously worked on - 
     1. Java 
     2. Python 

@@ -10,8 +10,8 @@ Currently been reading papers on the same.
 
 - 🔭 I’m currently researching about - SIRENS and controllable image generation.
 - 🌱 I’m currently learning - 
-       1.React
-       2.Node
+-       1.React
+        2.Node
 - 😅 Planning on messing with - FullStack.
 - 👀 Have previously worked on - 
     1. Java 
